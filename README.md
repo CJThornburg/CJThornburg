@@ -5,7 +5,7 @@ I am open to opportunities.
 I just finished the [ApexFriends](https://github.com/CJThornburg/APEXFriends), a personal project and deployed using heroku. 
 Deployment can be access at https://apex-friends.herokuapp.com/ 
 
-I also worked with a few local orginizations to design and develop a website for their coalition. 
+I also worked with a few local orginizations to design and develop a website for their coalition: 
 [Defund Nova Police](https://www.defundnovapolice.net/)
 
 Colaberated with several developers on another campaign website. [Green New Schools] (https://greennewschools.com/) which used Hugo as a framework.
