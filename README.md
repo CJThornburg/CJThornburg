@@ -10,7 +10,7 @@ I also worked with a few local orginizations to design and develop a website for
 
 Colaberated with several developers on another campaign website. [Green New Schools](https://greennewschools.com/) which used Hugo as a framework.
 
-Right now, I am working on my React skills.
+Right now, I am working on my React skills ⚛️.
 
  
 You can learn more about me on my [linkedIn](https://www.linkedin.com/in/chris-thornburg-40b81297/)
