@@ -8,7 +8,7 @@ Deployment can be access at https://apex-friends.herokuapp.com/
 I also worked with a few local orginizations to design and develop a website for their coalition: 
 [Defund Nova Police](https://www.defundnovapolice.net/)
 
-Colaberated with several developers on another campaign website. [Green New Schools](https://greennewschools.com/) which allowed me to get some hands on expeirnce with the HUGO framwork as well as several collaberation tools such as figma and trello.
+Colaberated with several developers on another campaign website. [Green New Schools](https://greennewschools.com/) which allowed me to get some hands on experience with the HUGO framework as well as several collaberation tools such as figma and trello.
 
 Right now, I am working on my React skills ⚛️.
 
