@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm an avid reader and activist**
 
-<h1 align="center">About:</h1>
+<h3 align="center">About:</h3>
 Dedicated software engineer, with a passion for learning and exploring new technologies. 
 With IT tech experience, I have honed my communication and interpersonal skills, ensuring exceptional customer satisfaction.
 
