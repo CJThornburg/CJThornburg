@@ -15,7 +15,7 @@ Recent App Academy Coding Bootcamp grad, and looking forward to starting the nex
 
 - ⚡ Bio Recent App Academy Coding Bootcamp grad, and looking forward to starting the next chapter in my life. I'm an avide reader, gamer and activist. 
 
-<h3 align="center">About:</h3>
+
 
 
 
