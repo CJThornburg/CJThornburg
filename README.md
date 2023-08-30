@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://devchrisportfolio.netlify.app/images/Chris%20Thornburg.pdf](https://devchrisportfolio.netlify.app/images/Chris%20Thornburg.pdf)
 
-- ⚡ Fun fact **avid reader and activist**
+- ⚡ Fun fact **I'm an avid reader and activist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
