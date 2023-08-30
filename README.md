@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris Thornburg</h1>
+<h1 align="center">Chris Thornburg</h1>
 Dedicated software engineer, with a passion for learning and exploring new technologies. 
 With IT tech experience, I have honed my communication and interpersonal skills, ensuring exceptional customer satisfaction.
 
