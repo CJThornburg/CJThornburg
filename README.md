@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Thornburg</h1>
-<h3 align="center">Hi</h3>
+
 
 - 🔭 I’m currently working on [butterFingers](https://github.com/CJThornburg/ButterFingers)
 
