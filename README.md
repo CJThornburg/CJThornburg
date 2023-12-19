@@ -9,7 +9,7 @@ Recent App Academy Coding Bootcamp grad, and looking forward to starting the nex
 
 - 🔭 I’m currently working on [butterFingers](https://github.com/CJThornburg/ButterFingers)
 
-- 👨‍💻 All of my projects are available at [https://devchrisportfolio.netlify.app/](https://devchrisportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on my [portfolio site](https://softwaredevchris.netlify.app/)
 
 - 📄 Know about my experiences [https://devchrisportfolio.netlify.app/images/Chris%20Thornburg.pdf](https://devchrisportfolio.netlify.app/images/Chris%20Thornburg.pdf)
 
