@@ -13,8 +13,7 @@ Recent App Academy Coding Bootcamp grad, and looking forward to starting the nex
 
 - 📄 Take a look at my my experience [resume](https://softwaredevchris.netlify.app/images/Chris%20Thornburg.pdf)
 
-- ⚡ Recent App Academy Coding Bootcamp grad, and looking forward to starting the next chapter in my life. I'm an avide reader, gamer and activist. 
-
+- ⚡ Recent App Academy Coding Bootcamp grad, and looking forward to starting the next chapter in my life. 
 
 
 
