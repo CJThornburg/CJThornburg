@@ -24,7 +24,7 @@ meaningful digital experiences and driving technical innovation, let's connect.
 My expertise spans across a diverse range of technologies, including HTML, CSS, JavaScript, React, Python, Flask, SQL, and Node.js, OOP and TDD.
 
 
-Recent App Academy Coding Bootcamp grad, and looking forward to starting the next chapter in my life. 
+Profesional experience before and after graduting App Academy Coding Bootcamp, and looking forward to starting the next chapter in my life. 
 
 - 🔭 I’m currently working on Local Organization Nextjs application, as a Free Lance engineer
 
