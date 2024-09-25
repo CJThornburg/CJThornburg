@@ -1,20 +1,28 @@
 <h1 align="center">Chris Thornburg</h1>
-Dedicated software engineer, with a passion for learning and exploring new technologies. 
-With IT tech experience, I have honed my communication and interpersonal skills, ensuring exceptional customer satisfaction.
-
+As a Full Stack Software Engineer with over 3 years of experience, I specialize in
+building responsive and innovative web applications that enhance user experiences and
+optimize performance. With a strong foundation in both front-end and back-end
+technologies, I have a proven track record of delivering efficient, secure, and user-
+centric solutions.
+Throughout my career, I’ve had the opportunity to work on diverse projects, from
+creating multi-page web applications using cutting-edge technologies like Next.js and
+Tailwind CSS to optimizing developer workflows and testing pipelines at organizations
+like Ellucian. My expertise spans API integration, dynamic react frontends, system design, and
+process improvement, making me well-versed in full product lifecycles and cross-team
+collaboration.
+Whether working on freelance projects or collaborating within teams, I am passionate
+about exceeding expectations and delivering products that align with business objectives
+while providing exceptional user experiences. My technical toolkit includes JavaScript,
+TypeScript, React, PostgreSQL, Prisma, Docker, AWS, and more, with a focus on
+continuous learning and improvement.
 My expertise spans across a diverse range of technologies, including HTML, CSS, JavaScript, React, Python, Flask, SQL, and Node.js, OOP and TDD.
 
 
 Recent App Academy Coding Bootcamp grad, and looking forward to starting the next chapter in my life. 
 
-- 🔭 I’m currently working on [butterFingers](https://github.com/CJThornburg/ButterFingers)
+- 🔭 I’m currently working on Local Organization Nextjs application, as a Free Lance engineer
 
-- 👨‍💻 All of my projects are available on my [portfolio site](https://softwaredevchris.netlify.app/)
-
-- 📄 Take a look at my my experience [resume](https://softwaredevchris.netlify.app/images/Chris%20Thornburg.pdf)
-
-- ⚡ Recent App Academy Coding Bootcamp grad, and looking forward to starting the next chapter in my life. 
-
+- 👨‍💻 Learn more about my experience, projects and current resume on [portfolio site](https://devchrisportfolio.netlify.app/)
 
 
 
