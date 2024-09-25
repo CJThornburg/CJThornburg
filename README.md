@@ -22,7 +22,7 @@ Recent App Academy Coding Bootcamp grad, and looking forward to starting the nex
 
 - 🔭 I’m currently working on Local Organization Nextjs application, as a Free Lance engineer
 
-- 👨‍💻 Learn more about my experience, projects and current resume on [portfolio site](https://devchrisportfolio.netlify.app/)
+- 👨‍💻 Learn more about my experience, projects and current resume on my [portfolio site](https://devchrisportfolio.netlify.app/)
 
 
 
