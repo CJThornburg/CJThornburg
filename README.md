@@ -26,7 +26,7 @@ My expertise spans across a diverse range of technologies, including HTML, CSS, 
 
 Profesional experience before and after graduting App Academy Coding Bootcamp, and looking forward to starting the next chapter in my life. 
 
-- 🔭 I’m currently working on Local Organization Nextjs application, as a Free Lance engineer
+- 🔭 I’m currently working on Local Organization Nextjs application, as a Free Lance engineer but open to oppertunities!
 
 - 👨‍💻 Learn more about my experience, projects and current resume on my [portfolio site](https://devchrisportfolio.netlify.app/)
 
