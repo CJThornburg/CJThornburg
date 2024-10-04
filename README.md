@@ -5,6 +5,7 @@ optimize performance. With a strong foundation in both front-end and back-end
 technologies, I have a proven track record of delivering efficient, secure, and user-
 centric solutions.
 
+
 Throughout my career, I’ve had the opportunity to work on diverse projects, from
 creating multi-page web applications using cutting-edge technologies like Next.js and
 Tailwind CSS to optimizing developer workflows and testing pipelines at organizations
